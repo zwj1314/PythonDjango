@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% load static from staticfiles %}
+<!--<script type="text/javascript" src="/static/booktest/js/jquery-1.12.4.min.js"></script>-->
+<script type="text/javascript" src="{% static 'booktest/js/jquery-1.12.4.min.js' %}"></script>
+<form action="/booktest/verifyTest2" method="post">
+    <input type="text" name="code1">
+    <br>
+    <img id='verifycode' src="/booktest/verifyCode"/>
+    <span id='verifycodeChange'>看不清，换一个</span>
+    <br>
+    <input type="submit" value="提交">
+</form>
+<script type="text/javascript">
+    $(function(){
+        $('#verifycodeChange').css('cursor','pointer').click(function() {
+            $('#verifycode').attr('src',$('#verifycode').attr('src')+1)
+        });
+    });
+</script>
+</body>
+</html>

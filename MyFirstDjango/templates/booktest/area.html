@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="/static/booktest/js/jquery-1.12.4.min.js"></script>
+    <script>
+        //页面加载完成后执行下面的代码
+        $(function () {
+
+
+            //使用ajax加载省的信息
+            pro = $('#pro')
+            $.get('pro/', function (dic) {//{data:[1,'北京'],[2,'天津'],[]}
+                //遍历一个数据，第二个参数是对每个元素应用的函数
+                $.each(dic.data, function (index, item) {
+                    pro.append('<option value="'+item[0]+'">'+item[1]+'</option>')
+                })
+            })
+
+            //使用ajax加载市的信息
+            $('#pro').change(function () {
+                $.get('city'+$(this).val()+'/', function (list) {
+                    city = $('#city')
+                    city.empty().append('<option value="0">请选择市</option>')
+                    $('#dis').empty().append('<option value="0">请选择区</option>')
+                    //{data:[{id:1,title:北京},{id:2,title:天津},...]}
+                    $.each(list.data, function (index, item) {
+                        city.append('<option value="'+item.id+'">'+item.title+'</option>')
+                    })
+                    
+                })
+            })
+
+
+            //使用ajax加载区的信息
+            $('#city').change(function () {
+                $.get('dis'+$(this).val()+'/', function (list) {
+                    city = $('#dis')
+                    city.empty().append('<option value="0">请选择区</option>')
+                    //{data:[{id:1,title:北京},{id:2,title:天津},...]}
+                    $.each(list.data, function (index, item) {
+                        city.append('<option value="'+item.id+'">'+item.title+'</option>')
+                    })
+
+                })
+            })
+
+
+
+        });
+    </script>
+</head>
+<body>
+<select id="pro">
+    <option value="0">请选择省</option>
+</select>
+<select id="city">
+    <option value="0">请选择市</option>
+</select>
+<select id="dis">
+    <option value="0">请选择区</option>
+</select>
+</body>
+</html>

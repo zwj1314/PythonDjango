@@ -1,4 +1,5 @@
 from django.db import models
+from tinymce.models import HTMLField
 
 class BookInfo(models.Model):
     btitle = models.CharField(max_length=20)
@@ -28,3 +29,9 @@ class HeroInfo(models.Model):
     def __str__(self):
         return self.hname
 
+class AreaInfo(models.Model):
+    title = models.CharField(max_length=20)
+    parea = models.ForeignKey('self', null=True, blank=True, on_delete=models.CASCADE)
+
+class Test1(models.Model):
+    content = HTMLField()

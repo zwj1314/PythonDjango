@@ -24,5 +24,7 @@ urlpatterns = [
     # 正则表达中添加括号，则表示将括号中的信息传递给request
     re_path('^(\d+)$', views.show),
     path('admin/', admin.site.urls),
-    re_path('^booktest/', include('booktest.urls', namespace="booktest"))
+    re_path('^booktest/', include('booktest.urls', namespace="booktest")),
+    re_path('^tinymce/', include('tinymce.urls')),
+    re_path(r'^search/', include('haystack.urls')),
 ]

@@ -29,5 +29,35 @@ urlpatterns = [
     # 反向解析
     re_path('^(\d+)/(\d+)/', views.show1, name="show1"),
 
+    #验证码
+    re_path('^verifyCode', views.verifyCode),
+    re_path('^verifyTest2', views.verifyTest2),
+    re_path('^verifyTest1/', views.verifyTest1),
+
+    #上传图片
+    re_path('^uploadPic', views.uploadPic),
+    re_path('^uploadHandle', views.uploadHandle),
+
+    #省市选择
+    re_path('^area$', views.area),
+    re_path('^pro', views.pro),
+    re_path('^city(\d+)', views.city),
+    re_path('^dis(\d+)',views.dis),
+
+    #富文本
+    re_path('^htmlEditor$', views.htmlEditor),
+    re_path('^htmlEditorHandle/', views.htmlEditorHandle),
+
+    #缓存
+    re_path('^cache1', views.cache1),
+
+    #全文搜索
+    re_path('^mysearch', views.mysearch),
+
+    #
+    re_path('^celeryTest', views.celeryTest),
+
+
+
 
 ]

@@ -7,6 +7,8 @@ class HeroInfoInline(admin.TabularInline): #StackedInline
     # 添加的英雄信息的个数
     extra = 2
 
+#方式二、装饰器方式注册
+#@admin.register(BookInfo)
 class BookInfoAdmin(admin.ModelAdmin):
     list_display = ['id', 'btitle', 'bpub_date']
     list_filter = ['btitle']
@@ -18,6 +20,10 @@ class BookInfoAdmin(admin.ModelAdmin):
     ]
     inlines = [HeroInfoInline]
 
-# Register your models here.
+# 方式一、Register your models here.
 admin.site.register(BookInfo, BookInfoAdmin)
 admin.site.register(HeroInfo)
+admin.site.register(Test1)
+
+
+
