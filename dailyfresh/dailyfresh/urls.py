@@ -15,11 +15,18 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path,re_path,include
-from dailyfreshapp import views
+from dailyfreshuser import views
 
 urlpatterns = [
-    path('', views.index),
+
     path('admin/', admin.site.urls),
+
     # 这里user的后面必须要加/，否则匹配不上
-    re_path('^user/', include('dailyfreshapp.urls')),
+    re_path('^user/', include('dailyfreshuser.urls', namespace='dailyfreshuser')),
+    re_path('^', include('dailyfreshgoods.urls', namespace='dailyfreshgoods')),
+    re_path('^cart/', include('dailyfreshcart.urls', namespace='dailyfreshcart')),
+    re_path('^order/', include('dailyfreshorder.urls', namespace='dailyfreshorder')),
+
+    # 富文本编辑器
+    re_path('^tinymce/', include('tinymce.urls')),
 ]
