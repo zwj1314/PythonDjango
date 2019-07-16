@@ -32,7 +32,7 @@ def add(request, gid, count):
     else:
         cart = CartInfo()
         cart.user_id = uid
-        cart.good_id = gid
+        cart.goods_id = gid
         cart.count = count
     cart.save()
     # 如果是ajax请求，则直接返回json，否则返回购物车

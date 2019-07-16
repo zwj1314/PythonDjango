@@ -51,7 +51,7 @@
 {% block center_content %}
 
 	<div class="goods_detail_con clearfix">
-		<div class="goods_detail_pic fl"><img src="/static/dailyfreshuser/images/goods_detail.jpg"></div>
+		<div class="goods_detail_pic fl"><img src="{{ MEDIA_URL }}{{ g.gpic }}"></div>
 
 		<div class="goods_detail_list fr">
 			<h3>{{g.gtitle}}</h3>
@@ -79,7 +79,7 @@
 				{% if request.session.user_name|default:'' != '' %}
 				<a href="javascript:;" class="add_cart" id="add_cart">加入购物车</a>
 				{% else %}
-				<a href="javascript:;" class="add_cart" id="add_cart">加入购物车</a>
+				<a href="{% url "dailyfreshuser:login" %}" class="add_cart" id="add_cart">加入购物车</a>
 				{% endif %}
 
 			</div>
@@ -127,7 +127,7 @@
 
             $(".buy_btn").click(function () {
                 num = parseInt($('.num_show').val());
-                $.get('/cart/add{{ goods.id }}_'+num+'/',function (data) {
+                $.get('/cart/add{{ g.id }}_'+num+'/',function (data) {
                     $('#show_count').text(data.count);
                 });
                 location.href = "/cart/";
@@ -161,7 +161,7 @@
 
 					});
                 num = parseInt($('.num_show').val());
-                $.get('/cart/add{{ goods.id }}_'+num+'/',function (data) {
+                $.get('/cart/add{{ g.id }}_'+num+'/',function (data) {
                     $('#show_count').text(data.count);
             	})
 

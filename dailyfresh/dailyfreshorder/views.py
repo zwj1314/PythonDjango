@@ -37,7 +37,7 @@ def order(request):
         'total_trans_price': total_trans_price,
         # 'value':value
     }
-    return render(request, 'df_order/place_order.html', context)
+    return render(request, 'dailyfreshorder/place_order.html', context)
 
 @user_decorator.login
 @transaction.atomic() #事务

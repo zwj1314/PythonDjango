@@ -60,7 +60,7 @@
 			<li class="col04">{{ cart.goods.gunit }}</li>
 			<li class="col05">{{ cart.goods.gprice }}</li>
 			<li class="col06">{{ cart.count }}</li>
-			<li class="col07">{{ cart.goods.gprice*cart.count }}元</li>
+			<li class="col07">{% widthratio {{ cart.goods.gprice}} 1 {{cart.count }}%}元</li>
 		</ul>
 		{% endfor %}
 	</div>

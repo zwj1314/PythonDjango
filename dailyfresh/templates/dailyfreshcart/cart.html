@@ -37,7 +37,7 @@
 
         //数量减，为所有的minus绑定点击事件
 		$('.minus').click(function () {
-		    txt = $(this).next()
+		    txt = $(this).prev()
 			txt.val(parseFloat(txt.val())-1).blur()
         });
 
@@ -103,12 +103,12 @@
 			//显示小计
 			$(this).text(total0.toFixed(2))
 			//加到总计上
-			total1 += total1
+			total1 += total0
 			total_count++
         })
 		//显示总计
 		$('#total').text(total1.toFixed(2))
-		$('#total_count1').text(total_count)
+		$('.total_count1').text(total_count)
     };
 
 	function go_order() {
