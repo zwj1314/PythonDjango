@@ -10,6 +10,6 @@ urlpatterns = [
     #re_path('^add(?P<gid>\d+)_(?P<count>\d+)/', views.add, name="add"),
     re_path('^add(\d+)_(\d+)/', views.add, name="add"),
     re_path('^edit(\d+)_(\d+)/', views.edit, name="edit"),
-    re_path('^delete(\d+)_(\d+)/', views.delete, name="delete"),
+    re_path('^delete(\d+)/', views.delete, name="delete"),
 
 ]

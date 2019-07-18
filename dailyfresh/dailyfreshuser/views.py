@@ -107,6 +107,7 @@ def info(request):
         'user_name': username,
         'goods_list': goods_list,
         'explain': explain,
+        'user_email':user.uemail,
     }
     return render(request, 'dailyfreshuser/user_center_info.html', context)
 

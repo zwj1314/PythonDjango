@@ -1,17 +1,17 @@
 {% extends 'base.html' %}
 
-{% block head %}
-	<script type="text/javascript">
-		$(function () {
-			$('.col07').each(function () {
-			    count = $(this).prev().text()
-				price = $(this).prev().prev().text()
-				$(this).html(parseFloat(count, 2)*parseFloat(price, 2)+'元')
+<!--{% block head %}-->
+	<!--<script type="text/javascript">-->
+		<!--$(function () {-->
+			<!--$('.col07').each(function () {-->
+			    <!--count = $(this).prev().text()-->
+				<!--price = $(this).prev().prev().text()-->
+				<!--$(this).html(parseFloat(count, 2)*parseFloat(price, 2)+'元')-->
 
-            })
-        })
-	</script>
-{% endblock head %}
+            <!--})-->
+        <!--})-->
+	<!--</script>-->
+<!--{% endblock head %}-->
 
 {% block center_body %}
 	<h3 class="common_title">确认收货地址</h3>
@@ -60,7 +60,7 @@
 			<li class="col04">{{ cart.goods.gunit }}</li>
 			<li class="col05">{{ cart.goods.gprice }}</li>
 			<li class="col06">{{ cart.count }}</li>
-			<li class="col07">{% widthratio {{ cart.goods.gprice}} 1 {{cart.count }}%}元</li>
+			<li class="col07">{% widthratio cart.goods.gprice 1 cart.count %}</li>
 		</ul>
 		{% endfor %}
 	</div>
