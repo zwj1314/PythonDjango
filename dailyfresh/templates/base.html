@@ -18,8 +18,8 @@
                 <a href="{% url "dailyfreshuser:login" %}">登录</a>
                 <span>|</span>
                 <a href="register">注册</a>
-                <span>|</span>
-                <a href="logout">退出</a>
+                <!--<span>|</span>-->
+                <!--<a href="logout">退出</a>-->
             </div>
             {% endif %}
             <div class="user_link fl">
@@ -48,8 +48,8 @@
                         alert("请输入搜索内容");
                     }
                     else{
-
-                        location.href = 'order'
+                        //location.href = "search/ordinary_search"+'?q='+q+'&page=2'
+                        location.href = '{% url "dailyfreshgoods:ordinary_search" %}?q='+q+'&page=1'
                     }
                 })
             })
