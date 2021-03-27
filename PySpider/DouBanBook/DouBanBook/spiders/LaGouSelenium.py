@@ -63,4 +63,3 @@ class Lagou(object):
 if __name__ == '__main__':
     lagou = Lagou("数据分析")
     lagou.run()
-    # 翻页
