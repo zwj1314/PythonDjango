@@ -5,96 +5,177 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21e2ad80-6f07-467c-a90b-69d8d219e583" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaBase/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/AbstractDevelop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/AbstractEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/AbstractMaintainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/DouDiZhu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/FruitItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/JavaEe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/NetWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Shopp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/TestComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Usb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/VarArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrayList/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrayList/IteratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrayList/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrays/ArraysDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/date/CalendarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/date/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/date/SimpleDateFormatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/fileio/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/fileio/FileIoDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/fileio/MyJavaFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hashset/HashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hashset/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/JingLi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/StringBufferPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/VIP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Waiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/Copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/Copy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/Copy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/CopyCompary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/FileInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/FileInputStreamDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/FileOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/jdbc/JDBCDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/map/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/map/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/map/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/GetSumCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/MultiThreaPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/wrapper/IntegerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBase/src/recurrence/RecurrenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PySpider/AVList/AVList/spiders/爬虫子公司使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PySpider/AVList/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PySpider/DouYou/DouYou/spiders/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonLearn/Day1/FunCardInfoSystem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonLearn/Day1/PersonBullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/app/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/controller/ZhangWuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/dao/ZhangWuDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/domain/Zhangwu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/service/ZhangWuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/tools/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/view/MainView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/DouDiZhu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/DouDiZhu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/FruitItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/FruitItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/JavaEe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/JavaEe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/NetWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/NetWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Shopp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Shopp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/TestComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/TestComputer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Usb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/Usb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/VarArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/VarArguments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrayList/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrayList/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrayList/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrayList/IteratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrayList/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrayList/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrays/ArraysDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/arrays/ArraysDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/date/CalendarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/date/CalendarDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/date/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/date/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/date/SimpleDateFormatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/date/SimpleDateFormatDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/fileio/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/fileio/FileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/fileio/FileIoDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/fileio/FileIoDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/fileio/MyJavaFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/fileio/MyJavaFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hashset/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hashset/HashSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hashset/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hashset/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Cook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/GenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/GenericTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/JingLi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/JingLi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/StringBufferPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/StringBufferPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/VIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/VIP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/hotel/Waiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/Copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/Copy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/Copy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/Copy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/Copy3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/CopyCompary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/CopyCompary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/FileInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/FileInputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/FileInputStreamDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/FileInputStreamDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/FileOutputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/io/FileOutputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/jdbc/JDBCDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/jdbc/JDBCDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/map/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/map/HashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/map/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/map/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/map/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/map/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/reflect/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/GetSumCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/GetSumCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/MultiThreaPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/MultiThreaPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/threadpool/ThreadPoolRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/com/pingan/wrapper/IntegerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/com/pingan/wrapper/IntegerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBase/src/recurrence/RecurrenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBase/src/recurrence/RecurrenceDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/spiders/LaGouSelenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/spiders/LaGouSelenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/spiders/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/spiders/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/spiders/数据分析_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/DouBanBook/DouBanBook/spiders/数据分析_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/itcast.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/spiders/TeacherCrawlV2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/spiders/TeacherCrawlV2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/spiders/itcastv2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/spiders/itcastv3.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/spiders/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/Itcast/Itcast/spiders/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PySpider/JobSpiders" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/JobSpiders" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PySpider/Spider01/Post.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/Spider01/Post.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PySpider/Spider01/Tieba.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PySpider/Spider01/Tieba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonLearn/Day1/FunCardInfoSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonLearn/Day1/FunCardInfoSystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonLearn/Day1/PersonBullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonLearn/Day1/PersonBullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/.bsp/sbt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/active.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$3d2a96a288e05ea68920$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$3d2a96a288e05ea68920.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$3d2a96a288e05ea68920.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$51cba4ca22c467280798$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$51cba4ca22c467280798.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$51cba4ca22c467280798.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$c1a40255a72368898f3b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$c1a40255a72368898f3b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$c1a40255a72368898f3b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$fcb33b93bbe377b55772$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$fcb33b93bbe377b55772.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$fcb33b93bbe377b55772.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/src/main/scala/com.dj.scala/FirstScala.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/src/main/scala/com.dj.scala/Trait2.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/.history3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/global-logging/sbt-global-log2525914010899310465.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/global-logging/sbt-global-log2602518976232550841.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/update/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/app/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/app/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/controller/ZhangWuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/controller/ZhangWuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/dao/ZhangWuDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/dao/ZhangWuDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/domain/Zhangwu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/domain/Zhangwu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/service/ZhangWuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/service/ZhangWuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/tools/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/tools/JDBCUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/view/MainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.pingan.gjp/src/com/pingan/gjp/view/MainView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dailyfresh/dailyfresh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dailyfresh/dailyfresh/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dailyfresh/dailyfreshuser/user_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dailyfresh/dailyfreshuser/user_decorator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dailyfresh/static/media/dailyfreshgoods/goods001.jpg" beforeDir="false" />
@@ -162,6 +243,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="ReaderModeSettings">
@@ -264,7 +346,7 @@
       <updated>1613378720855</updated>
       <workItem from="1613378722457" duration="5469000" />
       <workItem from="1616820021487" duration="10001000" />
-      <workItem from="1616853735059" duration="1506000" />
+      <workItem from="1616853735059" duration="2319000" />
     </task>
     <servers />
   </component>
